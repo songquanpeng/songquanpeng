@@ -2,11 +2,15 @@ import requests
 import os
 import sys
 import datetime
+from dateutil import tz
 
 token = ''
 current_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 top_repo_num = 10
 recent_repo_num = 10
+
+from_zone = tz.tzutc()
+to_zone = tz.tzlocal()
 
 
 def fetcher(username: str):
@@ -38,6 +42,10 @@ def fetcher(username: str):
             'name': repo['name'],
             'description': repo['description']
         }
+        date = datetime.datetime.strptime(processed_repo['pushed_at'], "%Y-%m-%dT%H:%M:%SZ")
+        date = date.replace(tzinfo=from_zone)
+        date = date.astimezone(to_zone)
+        processed_repo['pushed_at'] = date.strftime('%Y-%m-%d %H:%M:%S')
         processed_repos.append(processed_repo)
     top_repos = sorted(processed_repos, key=lambda x: x['score'], reverse=True)
     top_repos = top_repos[:top_repo_num]
@@ -124,7 +132,7 @@ def main():
     github_data = fetcher(github_username)
     markdown = render(github_username, github_data, zhihu_username)
     if writer(markdown):
-        pusher()
+        pusher(False)
 
 
 if __name__ == '__main__':
