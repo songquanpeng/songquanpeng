@@ -1,6 +1,5 @@
 import requests
 import os
-import sys
 import datetime
 from dateutil import tz
 
@@ -59,8 +58,9 @@ def fetcher(username: str):
 abstract_tpl = """## Abstract
 ![{github_name}'s Github Stats](https://github-readme-stats.vercel.app/api?username={github_username}&show_icons=true&hide_border=true)
 ![{github_name}'s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact)
-[![{github_name}'s Zhihu Stats](https://stats.justsong.cn/api/zhihu?username={zhihu_username})](https://github.com/songquanpeng/readme-stats)
 """
+
+zhihu_tpl = "[![{github_name}'s Zhihu Stats](https://stats.justsong.cn/api/zhihu?username={zhihu_username})](https://github.com/songquanpeng/readme-stats)\n"
 
 recent_repos_tpl = """\n## Recent Repos
 |Repo|Description|Last Update|
@@ -83,6 +83,9 @@ Last update: {}
 
 def render(github_username, github_data, zhihu_username='') -> str:
     markdown = ""
+    global abstract_tpl
+    if zhihu_username:
+        abstract_tpl += zhihu_tpl
     markdown += abstract_tpl.format(github_username=github_username, github_name=github_data['name'],
                                     zhihu_username=zhihu_username)
     global recent_repos_tpl
@@ -108,10 +111,10 @@ def writer(markdown) -> bool:
     return ok
 
 
-def pusher(debug=False):
+def pusher():
     commit_message = ":pencil2: update on {}".format(current_time)
     os.system('git add ./README.md')
-    if debug:
+    if os.getenv('DEBUG'):
         return
     os.system('git commit -m "{}"'.format(commit_message))
     os.system('git push')
@@ -119,20 +122,18 @@ def pusher(debug=False):
 
 def main():
     global top_repo_num
-    top_repo_num = 10
     global recent_repo_num
+    top_repo_num = 10
     recent_repo_num = 10
-    if len(sys.argv) != 4:
-        print("Error! This script requires one arguments: GITHUB_USERNAME GITHUB_TOKEN ZHIHU_USERNAME")
-        return
-    github_username = sys.argv[1]
-    global token
-    token = sys.argv[2]
-    zhihu_username = sys.argv[3]
+    github_username = os.getenv('GITHUB')
+    if not github_username:
+        cwd = os.getcwd()
+        github_username = os.path.split(cwd)[-1]
+    zhihu_username = os.getenv('ZHIHU')
     github_data = fetcher(github_username)
     markdown = render(github_username, github_data, zhihu_username)
     if writer(markdown):
-        pusher(False)
+        pusher()
 
 
 if __name__ == '__main__':
