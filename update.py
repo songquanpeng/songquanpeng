@@ -111,7 +111,7 @@ def pusher(debug=False):
 
 def main():
     global top_repo_num
-    top_repo_num = 15
+    top_repo_num = 10
     global recent_repo_num
     recent_repo_num = 10
     if len(sys.argv) != 4:
