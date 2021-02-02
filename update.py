@@ -57,7 +57,7 @@ def fetcher(username: str):
 
 abstract_tpl = """## Abstract
 ![{github_name}'s Github Stats](https://github-readme-stats.vercel.app/api?username={github_username}&show_icons=true&hide_border=true)
-![{github_name}'s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact)
+![{github_name}'s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact&hide_border=true)
 """
 
 zhihu_tpl = "[![{github_name}'s Zhihu Stats](https://stats.justsong.cn/api/zhihu?username={zhihu_username})](https://github.com/songquanpeng/readme-stats)\n"
