@@ -23,6 +23,7 @@ jobs:
       with:
         python-version: '3.8'
     - run: |
+        pip install -r requirements.txt
         python ./update.py
     - name: update readme
       env:
