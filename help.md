@@ -1,5 +1,7 @@
 ## Steps
-1. Fork this repo and rename it to your github username.
-2. Clone your fork.
-3. Run the `update.py` in the repo's folder (the working dir must be the folder).
-4. (optional) Set a env parameter `ZHIHU` to your zhihu username, and your will have zhihu stats in your readme.
+1. Fork this repository and rename it to your github username.
+2. Goto your repository's secrets page (Mine is https://github.com/songquanpeng/songquanpeng/settings/secrets/actions) and setup two repository secrets:
+    + EMAIL: Your git config email.
+    + NAME: Your git config name.
+
+That's all, your readme profile will be automatic updated on every sunday.
