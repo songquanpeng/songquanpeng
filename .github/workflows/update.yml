@@ -23,6 +23,7 @@ jobs:
       with:
         python-version: '3.8'
     - run: |
+        sudo timedatectl set-timezone "Asia/Shanghai"
         pip install -r requirements.txt
         python ./update.py
     - name: update readme
@@ -30,7 +31,6 @@ jobs:
         GIT_USER: "Github Action"
         GIT_EMAIL: "action@github.com"
       run: |
-        sudo timedatectl set-timezone "Asia/Shanghai"
         git config user.name "${GIT_USER}"
         git config user.email "${GIT_EMAIL}"
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
