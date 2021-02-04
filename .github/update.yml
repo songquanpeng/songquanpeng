@@ -1,0 +1,33 @@
+name: update
+
+on:
+  schedule:
+    - cron: "0 0 * * SUN"
+  push:
+    tags:
+      - '*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+      with:
+        ref: "master"
+    - uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+    - run: |
+        python ./update.py
+    - name: update readme
+      env:
+        GIT_USER: ${{ secrets.NAME }}
+        GIT_EMAIL: ${{ secrets.EMAIL }}
+      run: |
+        git config user.name "${GIT_USER}"
+        git config user.email "${GIT_EMAIL}"
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+        git checkout master
+        git add ./README.md
+        git commit -m ":pencil2: update by Github Action"
+        git push -u origin master
