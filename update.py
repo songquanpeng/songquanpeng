@@ -20,13 +20,15 @@ def fetcher(username: str):
         'recent_repos': []
     }
     user_info_url = "https://api.github.com/users/{}".format(username)
-    all_repos_url = "https://api.github.com/users/{}/repos?per_page=100".format(username)
     header = {} if token == "" else {"Authorization": "bearer {}".format(token)}
     res = requests.get(user_info_url, header)
     user = res.json()
     result['name'] = user['name']
-    res = requests.get(all_repos_url, header)
-    repos = res.json()
+    repos = []
+    for i in range(1, 2 + user['public_repos'] // 100):
+        all_repos_url = "https://api.github.com/users/{}/repos?per_page=100&page={}".format(username, i)
+        res = requests.get(all_repos_url, header)
+        repos.extend(res.json())
     processed_repos = []
     for repo in repos:
         if repo['fork']:
