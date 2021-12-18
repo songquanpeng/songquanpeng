@@ -5,14 +5,17 @@
 </p>
 
 <p>
-  <img src="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=dark" alt="JustSong's LeetCode Stats" width="49%" />
-  <img src="https://stats.justsong.cn/api/zhihu/?username=songwonderful&theme=dark" alt="JustSong's Zhihu Stas" width="49%" /> 
+  <img src="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=light" alt="JustSong's LeetCode Stats" width="49%" />
+  <img src="https://stats.justsong.cn/api/zhihu/?username=songwonderful&theme=light" alt="JustSong's Zhihu Stats" width="49%" /> 
 </p>
+
+*Cards provided by [https://github.com/songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards)*
+
 
 ## Recent Repos
 |Repo|Description|Last Update|
 |:--|:--|:--|
-|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatic update your GitHub readme profile with Github Actions.|`2021-12-19 00:38:20`|
+|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatic update your GitHub readme profile with Github Actions.|`2021-12-19 00:41:41`|
 |[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，服务部署在 Vercel 上，保证服务稳定。Show your LeetCode stats in Github Profile.|`2021-12-19 00:22:14`|
 |[rest-reminder](https://github.com/songquanpeng/rest-reminder)|A reminder that will notify you when you need a rest.|`2021-12-11 10:44:25`|
 |[pytorch-deployment](https://github.com/songquanpeng/pytorch-deployment)|A template for rapid deployment of PyTorch models.|`2021-12-08 16:08:38`|
@@ -39,4 +42,4 @@
 
 
 
-*[Last Automatic Update: 2021-12-19 00:38:49](https://github.com/songquanpeng/songquanpeng/blob/master/help.md)*
+*[Last Automatic Update: 2021-12-19 00:42:05](https://github.com/songquanpeng/songquanpeng/blob/master/help.md)*
