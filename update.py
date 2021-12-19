@@ -68,7 +68,7 @@ abstract_tpl = """## Abstract
   <img src="https://stats.justsong.cn/api/zhihu/?username=songwonderful&theme=light" alt="JustSong's Zhihu Stats" width="49%" /> 
 </p>
 
-*Cards provided by [https://github.com/songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards)*
+*Cards provided by [https://github.com/songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards).*
 
 """
 
@@ -86,7 +86,7 @@ top_repos_tpl = """\n## Top Repos
 
 footer_tpl = """
 \n
-*[Last Automatic Update: {}](https://github.com/songquanpeng/songquanpeng/blob/master/help.md)*
+*Last automatic update at {} by [https://github.com/songquanpeng/songquanpeng/blob/master/update.py](https://github.com/songquanpeng/songquanpeng/blob/master/update.py).*
 """.format(current_time)
 
 
