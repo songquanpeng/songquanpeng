@@ -97,14 +97,14 @@ def render(github_username, github_data, zhihu_username='') -> str:
         abstract_tpl += zhihu_tpl
     markdown += abstract_tpl.format(github_username=github_username, github_name=github_data['name'],
                                     zhihu_username=zhihu_username)
-    global recent_repos_tpl
-    for repo in github_data['recent_repos']:
-        recent_repos_tpl += "|[{name}]({link})|{description}|`{pushed_at}`|\n".format(**repo)
-    markdown += recent_repos_tpl
     global top_repos_tpl
     for repo in github_data['top_repos']:
         top_repos_tpl += "|[{name}]({link})|{description}|`{star}`|\n".format(**repo)
     markdown += top_repos_tpl
+    global recent_repos_tpl
+    for repo in github_data['recent_repos']:
+        recent_repos_tpl += "|[{name}]({link})|{description}|`{pushed_at}`|\n".format(**repo)
+    markdown += recent_repos_tpl
     markdown += footer_tpl
     return markdown
 
