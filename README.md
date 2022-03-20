@@ -15,9 +15,9 @@
 ## Top Repos
 |Repo|Description|Star|
 |:--|:--|:--|
-|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器。|`468`|
+|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器。|`472`|
 |[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用. File sharing tool based on Go.|`75`|
-|[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，服务部署在 Vercel 上，保证服务稳定。Show your LeetCode & GitHub stats in GitHub Profile.|`48`|
+|[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，服务部署在 Vercel 上，保证服务稳定。Show your LeetCode & GitHub stats in GitHub Profile.|`49`|
 |[blog](https://github.com/songquanpeng/blog)|基于 Node.js 的个人博客系统|`27`|
 |[battle-city](https://github.com/songquanpeng/battle-city)|基于 TypeScript 的《坦克大战》的非标准实现。Yet another Battle City implemented in TypeScript.|`18`|
 |[pronunciation-corrector](https://github.com/songquanpeng/pronunciation-corrector)|拯救你的英语发音，告别因发音错误带来的尴尬！|`19`|
@@ -29,10 +29,10 @@
 ## Recent Repos
 |Repo|Description|Last Update|
 |:--|:--|:--|
+|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatic update your GitHub readme profile with Github Actions.|`2022-03-13 20:28:19`|
 |[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器。|`2022-03-09 20:23:24`|
 |[pytorch-template](https://github.com/songquanpeng/pytorch-template)|A template for PyTorch.|`2022-03-08 15:52:05`|
 |[pytorch-examples](https://github.com/songquanpeng/pytorch-examples)|[WIP] PyTorch code examples.|`2022-03-07 21:44:23`|
-|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatic update your GitHub readme profile with Github Actions.|`2022-03-06 20:28:01`|
 |[pytorch-deployment](https://github.com/songquanpeng/pytorch-deployment)|A template for rapid deployment of PyTorch models.|`2022-02-25 10:23:35`|
 |[songquanpeng.github.io](https://github.com/songquanpeng/songquanpeng.github.io)|None|`2022-02-25 09:21:39`|
 |[pronunciation-corrector](https://github.com/songquanpeng/pronunciation-corrector)|拯救你的英语发音，告别因发音错误带来的尴尬！|`2022-02-17 17:52:25`|
@@ -42,4 +42,4 @@
 
 
 
-*Last automatic update at 2022-03-13 20:28:18 by [https://github.com/songquanpeng/songquanpeng/blob/master/update.py](https://github.com/songquanpeng/songquanpeng/blob/master/update.py).*
+*Last automatic update at 2022-03-20 20:28:24 by [https://github.com/songquanpeng/songquanpeng/blob/master/update.py](https://github.com/songquanpeng/songquanpeng/blob/master/update.py).*
