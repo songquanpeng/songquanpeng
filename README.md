@@ -17,7 +17,7 @@
 |:--|:--|:--|
 |[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器。|`489`|
 |[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用. File sharing tool based on Go.|`82`|
-|[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，服务部署在 Vercel 上，保证服务稳定。Show your LeetCode & GitHub stats in GitHub Profile.|`63`|
+|[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，服务部署在 Vercel 上，保证服务稳定。Show your LeetCode & GitHub stats in GitHub Profile.|`64`|
 |[blog](https://github.com/songquanpeng/blog)|基于 Node.js 的个人博客系统|`30`|
 |[battle-city](https://github.com/songquanpeng/battle-city)|基于 TypeScript 的《坦克大战》的非标准实现。Yet another Battle City implemented in TypeScript.|`20`|
 |[pronunciation-corrector](https://github.com/songquanpeng/pronunciation-corrector)|拯救你的英语发音，告别因发音错误带来的尴尬！|`20`|
@@ -29,8 +29,9 @@
 ## Recent Repos
 |Repo|Description|Last Update|
 |:--|:--|:--|
+|[snippet-manager](https://github.com/songquanpeng/snippet-manager)|Your self-deployed online code snippet manager.|`2022-05-17 10:24:48`|
+|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatic update your GitHub readme profile with Github Actions.|`2022-05-15 20:37:12`|
 |[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器。|`2022-05-14 20:48:05`|
-|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatic update your GitHub readme profile with Github Actions.|`2022-05-08 20:31:54`|
 |[font-sr](https://github.com/songquanpeng/font-sr)|字体图片超分辨. Super resoluation for font images.|`2022-05-07 21:41:06`|
 |[ViTGAN](https://github.com/songquanpeng/ViTGAN)|[WIP] Unofficial PyTorch implementation for "ViTGAN: Training GANs with Vision Transformers".|`2022-04-26 11:34:48`|
 |[CV-algorithms](https://github.com/songquanpeng/CV-algorithms)|计算机视觉算法岗面试常考算法的实现|`2022-04-21 23:29:17`|
@@ -38,8 +39,7 @@
 |[blog](https://github.com/songquanpeng/blog)|基于 Node.js 的个人博客系统|`2022-03-21 10:24:03`|
 |[pytorch-template](https://github.com/songquanpeng/pytorch-template)|A template for PyTorch.|`2022-03-08 15:52:05`|
 |[pytorch-deployment](https://github.com/songquanpeng/pytorch-deployment)|A template for rapid deployment of PyTorch models.|`2022-02-25 10:23:35`|
-|[songquanpeng.github.io](https://github.com/songquanpeng/songquanpeng.github.io)|None|`2022-02-25 09:21:39`|
 
 
 
-*Last automatic update at 2022-05-15 20:37:10 by [https://github.com/songquanpeng/songquanpeng/blob/master/update.py](https://github.com/songquanpeng/songquanpeng/blob/master/update.py).*
+*Last automatic update at 2022-05-22 20:33:15 by [https://github.com/songquanpeng/songquanpeng/blob/master/update.py](https://github.com/songquanpeng/songquanpeng/blob/master/update.py).*
