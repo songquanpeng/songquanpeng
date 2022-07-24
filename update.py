@@ -48,7 +48,7 @@ def fetcher(username: str):
         date = date.astimezone(to_zone)
         processed_repo['pushed_at'] = date.strftime('%Y-%m-%d %H:%M:%S')
         processed_repos.append(processed_repo)
-    top_repos = sorted(processed_repos, key=lambda x: x['score'], reverse=True)
+    top_repos = sorted(processed_repos, key=lambda x: x['star'], reverse=True)
     top_repos = top_repos[:top_repo_num]
     result['top_repos'] = top_repos
     recent_repos = sorted(processed_repos, key=lambda x: x['pushed_at'], reverse=True)
