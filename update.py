@@ -69,24 +69,28 @@ abstract_tpl = """## Abstract
 </p>
 
 *Cards provided by [https://github.com/songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards).*
-
+<style>
+table th:nth-of-type(2) {
+    width: 500px;
+}
+</style>
 """
 
 zhihu_tpl = "[![{github_name}'s Zhihu Stats](https://stats.justsong.cn/api/zhihu?username={zhihu_username})](https://github.com/songquanpeng/readme-stats)\n"
 
 recent_repos_tpl = """\n## Recent Updates
-|Projects|Description|Last Update|
+|Project|Description|Last Update|
 |:--|:--|:--|
 """
 
 top_repos_tpl = """\n## Top Projects
-|Projects|Description|Stars|
+|Project|Description|Stars|
 |:--|:--|:--|
 """.format(current_time)
 
 footer_tpl = f"""
 \n
-*Last updated on {current_time}.*
+*Last updated on: {current_time}*
 """
 
 
