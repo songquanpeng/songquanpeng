@@ -75,12 +75,12 @@ abstract_tpl = """## Abstract
 zhihu_tpl = "[![{github_name}'s Zhihu Stats](https://stats.justsong.cn/api/zhihu?username={zhihu_username})](https://github.com/songquanpeng/readme-stats)\n"
 
 recent_repos_tpl = """\n## Recent Updates
-|🎁 Projects|📝 Description|🕐 Last Update|
+|Projects|Description|Last Update|
 |:--|:--|:--|
 """
 
 top_repos_tpl = """\n## Top Projects
-|🎁 Projects|📝 Description|⭐ Stars|
+|Projects|Description|Stars|
 |:--|:--|:--|
 """.format(current_time)
 
@@ -99,7 +99,7 @@ def render(github_username, github_data, zhihu_username='') -> str:
                                     zhihu_username=zhihu_username)
     global top_repos_tpl
     for repo in github_data['top_repos']:
-        top_repos_tpl += "|[{name}]({link})|{description}|`{star}`|\n".format(**repo)
+        top_repos_tpl += "|[{name}]({link})|{description}|`{star}⭐`|\n".format(**repo)
     markdown += top_repos_tpl
     global recent_repos_tpl
     for repo in github_data['recent_repos']:
