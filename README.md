@@ -13,10 +13,10 @@
 
 
 ## Top Projects
-|🎁 Projects|📝Description|⭐ Stars|
+|🎁 Projects|📝 Description|⭐ Stars|
 |:--|:--|:--|
-|[message-pusher](https://github.com/songquanpeng/message-pusher)|> 搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器。|`532`|
-|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`333`|
+|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器。|`535`|
+|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`354`|
 |[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，服务部署在 Vercel 上，保证服务稳定。Show your LeetCode & GitHub stats in GitHub Profile.|`76`|
 |[pronunciation-corrector](https://github.com/songquanpeng/pronunciation-corrector)|拯救你的英语发音，告别因发音错误带来的尴尬！|`69`|
 |[blog](https://github.com/songquanpeng/blog)|基于 Node.js 的个人博客系统|`32`|
@@ -26,13 +26,13 @@
 |[L2M-GAN](https://github.com/songquanpeng/L2M-GAN)|Unofficial PyTorch implementation of "L2M-GAN: Learning To Manipulate Latent Space Semantics for Facial Attribute Editing".|`14`|
 |[lan-share](https://github.com/songquanpeng/lan-share)|基于 Node.js 的文件分享工具. File sharing tool. |`13`|
 
-## Recent Projects
-|Repo|Description|Last Update|
+## Recent Updates
+|🎁 Projects|📝 Description|🕐 Last Update|
 |:--|:--|:--|
+|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatic update your GitHub readme profile with Github Actions.|`2022-08-14 00:11:27`|
+|[gofile-launcher](https://github.com/songquanpeng/gofile-launcher)|为 Go File 制作的启动器|`2022-08-11 19:20:31`|
+|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`2022-08-08 19:06:20`|
 |[learn-cpp](https://github.com/songquanpeng/learn-cpp)|学习 C++|`2022-08-07 17:54:57`|
-|[gofile-launcher](https://github.com/songquanpeng/gofile-launcher)|为 Go File 制作的启动器|`2022-08-07 16:20:57`|
-|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`2022-08-07 13:51:12`|
-|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatic update your GitHub readme profile with Github Actions.|`2022-07-31 20:34:39`|
 |[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器。|`2022-07-30 11:32:05`|
 |[blog](https://github.com/songquanpeng/blog)|基于 Node.js 的个人博客系统|`2022-07-30 11:24:23`|
 |[pytorch-template](https://github.com/songquanpeng/pytorch-template)|To be the world's best PyTorch project template.|`2022-07-25 10:40:18`|
@@ -42,4 +42,4 @@
 
 
 
-*Last automatic update at 2022-08-07 20:32:44 by [https://github.com/songquanpeng/songquanpeng/blob/master/update.py](https://github.com/songquanpeng/songquanpeng/blob/master/update.py).*
+*Last updated on 2022-08-14 00:11:54.*
