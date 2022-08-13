@@ -109,7 +109,8 @@ def render(github_username, github_data, zhihu_username='') -> str:
     markdown += top_repos_tpl
     global recent_repos_tpl
     for repo in github_data['recent_repos']:
-        recent_repos_tpl += "|[{name}]({link})|{description}|`{pushed_at}`|\n".format(**repo)
+        repo['date'] = repo['pushed_at'].replace('-', '--').replace(' ', '-').replace(':', '%3A')
+        recent_repos_tpl += "|[{name}]({link})|{description}|![{pushed_at}](https://img.shields.io/badge/{date}-brightgreen?style=flat-square)|\n".format(**repo)
     markdown += recent_repos_tpl
     markdown += footer_tpl
     return markdown
