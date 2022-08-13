@@ -56,14 +56,6 @@ def fetcher(username: str):
     result['recent_repos'] = recent_repos
     return result
 
-style_code = """
-<style>
-table th:nth-of-type(2) {
-    width: 500px;
-}
-</style>
-"""
-
 abstract_tpl = """## Abstract
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username={github_username}&show_icons=true&hide_border=true" alt="{github_name}'s Github Stats" width="58%" />
@@ -97,7 +89,7 @@ footer_tpl = f"""
 
 
 def render(github_username, github_data, zhihu_username='') -> str:
-    markdown = style_code
+    markdown = ""
     global abstract_tpl
     if zhihu_username:
         abstract_tpl += zhihu_tpl
