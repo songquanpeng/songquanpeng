@@ -1,9 +1,3 @@
-
-<style>
-table th:nth-of-type(2) {
-    width: 500px;
-}
-</style>
 ## Abstract
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=songquanpeng&show_icons=true&hide_border=true" alt="JustSong's Github Stats" width="58%" />
@@ -34,7 +28,7 @@ table th:nth-of-type(2) {
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatic update your GitHub readme profile with Github Actions.|![2022-08-14 00:52:06](https://img.shields.io/badge/2022--08--14-00%3A52%3A06-brightgreen?style=flat-square)|
+|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatic update your GitHub readme profile with Github Actions.|![2022-08-14 00:54:15](https://img.shields.io/badge/2022--08--14-00%3A54%3A15-brightgreen?style=flat-square)|
 |[gofile-launcher](https://github.com/songquanpeng/gofile-launcher)|为 Go File 制作的启动器|![2022-08-11 19:20:31](https://img.shields.io/badge/2022--08--11-19%3A20%3A31-brightgreen?style=flat-square)|
 |[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|![2022-08-08 19:06:20](https://img.shields.io/badge/2022--08--08-19%3A06%3A20-brightgreen?style=flat-square)|
 |[learn-cpp](https://github.com/songquanpeng/learn-cpp)|学习 C++|![2022-08-07 17:54:57](https://img.shields.io/badge/2022--08--07-17%3A54%3A57-brightgreen?style=flat-square)|
@@ -47,4 +41,4 @@ table th:nth-of-type(2) {
 
 
 
-*Last updated on: 2022-08-14 00:53:08*
+*Last updated on: 2022-08-14 00:54:45*
