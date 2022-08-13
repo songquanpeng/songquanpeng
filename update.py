@@ -74,20 +74,20 @@ abstract_tpl = """## Abstract
 
 zhihu_tpl = "[![{github_name}'s Zhihu Stats](https://stats.justsong.cn/api/zhihu?username={zhihu_username})](https://github.com/songquanpeng/readme-stats)\n"
 
-recent_repos_tpl = """\n## Recent Repos
-|Repo|Description|Last Update|
+recent_repos_tpl = """\n## Recent Updates
+|🎁 Projects|📝 Description|🕐 Last Update|
 |:--|:--|:--|
 """
 
-top_repos_tpl = """\n## Top Repos
-|Repo|Description|Star|
+top_repos_tpl = """\n## Top Projects
+|🎁 Projects|📝 Description|⭐ Stars|
 |:--|:--|:--|
 """.format(current_time)
 
-footer_tpl = """
+footer_tpl = f"""
 \n
-*Last automatic update at {} by [https://github.com/songquanpeng/songquanpeng/blob/master/update.py](https://github.com/songquanpeng/songquanpeng/blob/master/update.py).*
-""".format(current_time)
+*Last updated on {current_time}.*
+"""
 
 
 def render(github_username, github_data, zhihu_username='') -> str:
