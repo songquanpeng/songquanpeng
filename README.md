@@ -34,17 +34,17 @@ table th:nth-of-type(2) {
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatic update your GitHub readme profile with Github Actions.|`2022-08-14 00:36:33`|
-|[gofile-launcher](https://github.com/songquanpeng/gofile-launcher)|为 Go File 制作的启动器|`2022-08-11 19:20:31`|
-|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`2022-08-08 19:06:20`|
-|[learn-cpp](https://github.com/songquanpeng/learn-cpp)|学习 C++|`2022-08-07 17:54:57`|
-|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器。|`2022-07-30 11:32:05`|
-|[blog](https://github.com/songquanpeng/blog)|基于 Node.js 的个人博客系统|`2022-07-30 11:24:23`|
-|[pytorch-template](https://github.com/songquanpeng/pytorch-template)|To be the world's best PyTorch project template.|`2022-07-25 10:40:18`|
-|[http-server](https://github.com/songquanpeng/http-server)|Yet another HTTP server implemented in C++|`2022-07-23 23:08:51`|
-|[go-text](https://github.com/songquanpeng/go-text)|基于 Go 的终端风格在线聊天工具，仅单可执行文件，开箱即用. Go based terminal-style chat room.|`2022-07-22 20:50:47`|
-|[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，服务部署在 Vercel 上，保证服务稳定。Show your LeetCode & GitHub stats in GitHub Profile.|`2022-07-20 15:00:41`|
+|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatic update your GitHub readme profile with Github Actions.|![2022-08-14 00:52:06](https://img.shields.io/badge/2022--08--14-00%3A52%3A06-brightgreen?style=flat-square)|
+|[gofile-launcher](https://github.com/songquanpeng/gofile-launcher)|为 Go File 制作的启动器|![2022-08-11 19:20:31](https://img.shields.io/badge/2022--08--11-19%3A20%3A31-brightgreen?style=flat-square)|
+|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|![2022-08-08 19:06:20](https://img.shields.io/badge/2022--08--08-19%3A06%3A20-brightgreen?style=flat-square)|
+|[learn-cpp](https://github.com/songquanpeng/learn-cpp)|学习 C++|![2022-08-07 17:54:57](https://img.shields.io/badge/2022--08--07-17%3A54%3A57-brightgreen?style=flat-square)|
+|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器。|![2022-07-30 11:32:05](https://img.shields.io/badge/2022--07--30-11%3A32%3A05-brightgreen?style=flat-square)|
+|[blog](https://github.com/songquanpeng/blog)|基于 Node.js 的个人博客系统|![2022-07-30 11:24:23](https://img.shields.io/badge/2022--07--30-11%3A24%3A23-brightgreen?style=flat-square)|
+|[pytorch-template](https://github.com/songquanpeng/pytorch-template)|To be the world's best PyTorch project template.|![2022-07-25 10:40:18](https://img.shields.io/badge/2022--07--25-10%3A40%3A18-brightgreen?style=flat-square)|
+|[http-server](https://github.com/songquanpeng/http-server)|Yet another HTTP server implemented in C++|![2022-07-23 23:08:51](https://img.shields.io/badge/2022--07--23-23%3A08%3A51-brightgreen?style=flat-square)|
+|[go-text](https://github.com/songquanpeng/go-text)|基于 Go 的终端风格在线聊天工具，仅单可执行文件，开箱即用. Go based terminal-style chat room.|![2022-07-22 20:50:47](https://img.shields.io/badge/2022--07--22-20%3A50%3A47-brightgreen?style=flat-square)|
+|[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，服务部署在 Vercel 上，保证服务稳定。Show your LeetCode & GitHub stats in GitHub Profile.|![2022-07-20 15:00:41](https://img.shields.io/badge/2022--07--20-15%3A00%3A41-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2022-08-14 00:37:11*
+*Last updated on: 2022-08-14 00:53:08*
