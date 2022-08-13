@@ -1,3 +1,9 @@
+
+<style>
+table th:nth-of-type(2) {
+    width: 500px;
+}
+</style>
 ## Abstract
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=songquanpeng&show_icons=true&hide_border=true" alt="JustSong's Github Stats" width="58%" />
@@ -11,9 +17,8 @@
 
 *Cards provided by [https://github.com/songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards).*
 
-
 ## Top Projects
-|Projects|Description|Stars|
+|Project|Description|Stars|
 |:--|:--|:--|
 |[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器。|`535⭐`|
 |[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`354⭐`|
@@ -27,9 +32,9 @@
 |[lan-share](https://github.com/songquanpeng/lan-share)|基于 Node.js 的文件分享工具. File sharing tool. |`13⭐`|
 
 ## Recent Updates
-|Projects|Description|Last Update|
+|Project|Description|Last Update|
 |:--|:--|:--|
-|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatic update your GitHub readme profile with Github Actions.|`2022-08-14 00:14:05`|
+|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatic update your GitHub readme profile with Github Actions.|`2022-08-14 00:36:33`|
 |[gofile-launcher](https://github.com/songquanpeng/gofile-launcher)|为 Go File 制作的启动器|`2022-08-11 19:20:31`|
 |[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`2022-08-08 19:06:20`|
 |[learn-cpp](https://github.com/songquanpeng/learn-cpp)|学习 C++|`2022-08-07 17:54:57`|
@@ -42,4 +47,4 @@
 
 
 
-*Last updated on 2022-08-14 00:14:28.*
+*Last updated on: 2022-08-14 00:37:11*
