@@ -56,6 +56,13 @@ def fetcher(username: str):
     result['recent_repos'] = recent_repos
     return result
 
+style_code = """
+<style>
+table th:nth-of-type(2) {
+    width: 500px;
+}
+</style>
+"""
 
 abstract_tpl = """## Abstract
 <p>
@@ -69,11 +76,6 @@ abstract_tpl = """## Abstract
 </p>
 
 *Cards provided by [https://github.com/songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards).*
-<style>
-table th:nth-of-type(2) {
-    width: 500px;
-}
-</style>
 """
 
 zhihu_tpl = "[![{github_name}'s Zhihu Stats](https://stats.justsong.cn/api/zhihu?username={zhihu_username})](https://github.com/songquanpeng/readme-stats)\n"
@@ -95,7 +97,7 @@ footer_tpl = f"""
 
 
 def render(github_username, github_data, zhihu_username='') -> str:
-    markdown = ""
+    markdown = style_code
     global abstract_tpl
     if zhihu_username:
         abstract_tpl += zhihu_tpl
