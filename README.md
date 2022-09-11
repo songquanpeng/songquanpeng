@@ -14,11 +14,11 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器。|`542⭐`|
-|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`405⭐`|
-|[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，服务部署在 Vercel 上，保证服务稳定。Show your LeetCode & GitHub stats in GitHub Profile.|`82⭐`|
-|[pronunciation-corrector](https://github.com/songquanpeng/pronunciation-corrector)|拯救你的英语发音，告别因发音错误带来的尴尬！|`72⭐`|
-|[blog](https://github.com/songquanpeng/blog)|基于 Node.js 的个人博客系统|`33⭐`|
+|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器。|`544⭐`|
+|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`406⭐`|
+|[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，服务部署在 Vercel 上，保证服务稳定。Show your LeetCode & GitHub stats in GitHub Profile.|`84⭐`|
+|[pronunciation-corrector](https://github.com/songquanpeng/pronunciation-corrector)|拯救你的英语发音，告别因发音错误带来的尴尬！|`83⭐`|
+|[blog](https://github.com/songquanpeng/blog)|基于 Node.js 的个人博客系统|`34⭐`|
 |[battle-city](https://github.com/songquanpeng/battle-city)|基于 TypeScript 的《坦克大战》的非标准实现。Yet another Battle City implemented in TypeScript.|`21⭐`|
 |[microblog](https://github.com/songquanpeng/microblog)|基于 Go 的个人微博客，一个供你闲言碎语的地方|`16⭐`|
 |[v2ex-clone](https://github.com/songquanpeng/v2ex-clone)|V2ex 风格的论坛程序. V2ex's Node.js clone.|`16⭐`|
@@ -28,7 +28,8 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatic update your GitHub readme profile with Github Actions.|![2022-08-28 20:33:49](https://img.shields.io/badge/2022--08--28-20%3A33%3A49-brightgreen?style=flat-square)|
+|[gofile-cli](https://github.com/songquanpeng/gofile-cli)|CLI for Go File|![2022-09-11 15:16:00](https://img.shields.io/badge/2022--09--11-15%3A16%3A00-brightgreen?style=flat-square)|
+|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatic update your GitHub readme profile with Github Actions.|![2022-09-04 20:37:56](https://img.shields.io/badge/2022--09--04-20%3A37%3A56-brightgreen?style=flat-square)|
 |[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器。|![2022-08-23 11:26:45](https://img.shields.io/badge/2022--08--23-11%3A26%3A45-brightgreen?style=flat-square)|
 |[pronunciation-corrector](https://github.com/songquanpeng/pronunciation-corrector)|拯救你的英语发音，告别因发音错误带来的尴尬！|![2022-08-22 23:36:39](https://img.shields.io/badge/2022--08--22-23%3A36%3A39-brightgreen?style=flat-square)|
 |[gin-react-template](https://github.com/songquanpeng/gin-react-template)|Template for Gin & React projects.|![2022-08-22 23:26:13](https://img.shields.io/badge/2022--08--22-23%3A26%3A13-brightgreen?style=flat-square)|
@@ -37,8 +38,7 @@
 |[learn-cpp](https://github.com/songquanpeng/learn-cpp)|学习 C++|![2022-08-07 17:54:57](https://img.shields.io/badge/2022--08--07-17%3A54%3A57-brightgreen?style=flat-square)|
 |[blog](https://github.com/songquanpeng/blog)|基于 Node.js 的个人博客系统|![2022-07-30 11:24:23](https://img.shields.io/badge/2022--07--30-11%3A24%3A23-brightgreen?style=flat-square)|
 |[pytorch-template](https://github.com/songquanpeng/pytorch-template)|To be the world's best PyTorch project template.|![2022-07-25 10:40:18](https://img.shields.io/badge/2022--07--25-10%3A40%3A18-brightgreen?style=flat-square)|
-|[http-server](https://github.com/songquanpeng/http-server)|Yet another HTTP server implemented in C++|![2022-07-23 23:08:51](https://img.shields.io/badge/2022--07--23-23%3A08%3A51-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2022-09-04 20:37:55*
+*Last updated on: 2022-09-11 20:37:23*
