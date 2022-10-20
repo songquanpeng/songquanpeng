@@ -1,4 +1,4 @@
-name: update
+name: Update Profile
 
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
     inputs:
       name:
-        description: 'reason'
+        description: 'Reason'
         required: false
 
 jobs:
@@ -28,7 +28,7 @@ jobs:
         python ./update.py
     - name: update readme
       env:
-        GIT_USER: "Github Action"
+        GIT_USER: "GitHub Actions"
         GIT_EMAIL: "action@github.com"
       run: |
         git config user.name "${GIT_USER}"
@@ -36,5 +36,5 @@ jobs:
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
         git checkout master
         git add ./README.md
-        git commit -m ":book: update by GitHub Action"
+        git commit -m ":book: update by GitHub Actions"
         git push -u origin master
