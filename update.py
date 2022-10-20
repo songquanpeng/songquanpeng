@@ -67,8 +67,6 @@ abstract_tpl = """## Abstract
   <img src="https://stats.justsong.cn/api/zhihu/?username=songwonderful&theme=light" alt="JustSong's Zhihu Stats" width="49%" /> 
 </p>
 
-*Cards provided by [https://github.com/songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards).*
-
 ![skills](https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode)
 
 """
