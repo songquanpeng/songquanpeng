@@ -17,11 +17,11 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器|`567⭐`|
-|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`436⭐`|
-|[pytorch-template](https://github.com/songquanpeng/pytorch-template)|To be the world's best PyTorch project template.|`134⭐`|
-|[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，也可用于服务状态监控. Show your LeetCode & GitHub stats in GitHub Profile.|`101⭐`|
-|[pronunciation-corrector](https://github.com/songquanpeng/pronunciation-corrector)|拯救你的英语发音，告别因发音错误带来的尴尬！|`100⭐`|
+|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，仅单可执行文件，开箱即用|`574⭐`|
+|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`440⭐`|
+|[pytorch-template](https://github.com/songquanpeng/pytorch-template)|To be the world's best PyTorch project template.|`137⭐`|
+|[pronunciation-corrector](https://github.com/songquanpeng/pronunciation-corrector)|拯救你的英语发音，告别因发音错误带来的尴尬！|`102⭐`|
+|[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，也可用于服务状态监控. Show your LeetCode & GitHub stats in GitHub Profile.|`102⭐`|
 |[blog](https://github.com/songquanpeng/blog)|基于 Node.js 的个人博客系统. Node.js based blog system.|`38⭐`|
 |[battle-city](https://github.com/songquanpeng/battle-city)|基于 TypeScript 的《坦克大战》的非标准实现. Yet another Battle City implementation with TypeScript.|`22⭐`|
 |[microblog](https://github.com/songquanpeng/microblog)|基于 Go 的个人微博客，一个供你闲言碎语的地方. Go based microblog system.|`17⭐`|
@@ -31,17 +31,17 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[blog](https://github.com/songquanpeng/blog)|基于 Node.js 的个人博客系统. Node.js based blog system.|![2022-11-20 18:23:45](https://img.shields.io/badge/2022--11--20-18%3A23%3A45-brightgreen?style=flat-square)|
-|[blog-theme-bootstrap](https://github.com/songquanpeng/blog-theme-bootstrap)|Theme for the following blog system: https://github.com/songquanpeng/blog|![2022-11-20 18:05:01](https://img.shields.io/badge/2022--11--20-18%3A05%3A01-brightgreen?style=flat-square)|
+|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，仅单可执行文件，开箱即用|![2022-11-25 16:48:52](https://img.shields.io/badge/2022--11--25-16%3A48%3A52-brightgreen?style=flat-square)|
+|[gin-template](https://github.com/songquanpeng/gin-template)|用于 Gin & React 项目的模板. Template for Gin & React projects.|![2022-11-25 16:47:56](https://img.shields.io/badge/2022--11--25-16%3A47%3A56-brightgreen?style=flat-square)|
+|[blog](https://github.com/songquanpeng/blog)|基于 Node.js 的个人博客系统. Node.js based blog system.|![2022-11-24 17:09:22](https://img.shields.io/badge/2022--11--24-17%3A09%3A22-brightgreen?style=flat-square)|
+|[blog-theme-w3](https://github.com/songquanpeng/blog-theme-w3)|Theme for the following blog system: https://github.com/songquanpeng/blog|![2022-11-24 09:37:51](https://img.shields.io/badge/2022--11--24-09%3A37%3A51-brightgreen?style=flat-square)|
+|[blog-theme-bootstrap5](https://github.com/songquanpeng/blog-theme-bootstrap5)|Theme for the following blog system: https://github.com/songquanpeng/blog|![2022-11-24 09:36:43](https://img.shields.io/badge/2022--11--24-09%3A36%3A43-brightgreen?style=flat-square)|
+|[blog-theme-bootstrap](https://github.com/songquanpeng/blog-theme-bootstrap)|Theme for the following blog system: https://github.com/songquanpeng/blog|![2022-11-24 09:32:58](https://img.shields.io/badge/2022--11--24-09%3A32%3A58-brightgreen?style=flat-square)|
+|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|![2022-11-23 11:33:36](https://img.shields.io/badge/2022--11--23-11%3A33%3A36-brightgreen?style=flat-square)|
+|[personal-assistant](https://github.com/songquanpeng/personal-assistant)|让生活简单一点的个人助理应用. A personal assistant app that makes your life easier.|![2022-11-21 20:04:27](https://img.shields.io/badge/2022--11--21-20%3A04%3A27-brightgreen?style=flat-square)|
+|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatically update your GitHub profile with GitHub Actions.|![2022-11-20 20:33:34](https://img.shields.io/badge/2022--11--20-20%3A33%3A34-brightgreen?style=flat-square)|
 |[text-formatter](https://github.com/songquanpeng/text-formatter)|功能丰富的在线文本清理工具，可用于 PDF、PPT、CAJ 等文字复制格式化，去除多余的空格与换行|![2022-11-20 16:46:19](https://img.shields.io/badge/2022--11--20-16%3A46%3A19-brightgreen?style=flat-square)|
-|[gin-template](https://github.com/songquanpeng/gin-template)|用于 Gin & React 项目的模板. Template for Gin & React projects.|![2022-11-19 17:54:11](https://img.shields.io/badge/2022--11--19-17%3A54%3A11-brightgreen?style=flat-square)|
-|[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，也可用于服务状态监控. Show your LeetCode & GitHub stats in GitHub Profile.|![2022-11-18 18:29:53](https://img.shields.io/badge/2022--11--18-18%3A29%3A53-brightgreen?style=flat-square)|
-|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器|![2022-11-18 17:41:32](https://img.shields.io/badge/2022--11--18-17%3A41%3A32-brightgreen?style=flat-square)|
-|[bulma-template](https://github.com/songquanpeng/bulma-template)|Template for Bulma.|![2022-11-18 12:20:14](https://img.shields.io/badge/2022--11--18-12%3A20%3A14-brightgreen?style=flat-square)|
-|[pronunciation-corrector](https://github.com/songquanpeng/pronunciation-corrector)|拯救你的英语发音，告别因发音错误带来的尴尬！|![2022-11-16 11:24:22](https://img.shields.io/badge/2022--11--16-11%3A24%3A22-brightgreen?style=flat-square)|
-|[chat-room](https://github.com/songquanpeng/chat-room)|基于 Node.js 开发的聊天室应用. Chat room powered by Node.js.|![2022-11-15 17:27:04](https://img.shields.io/badge/2022--11--15-17%3A27%3A04-brightgreen?style=flat-square)|
-|[blog-theme-w3](https://github.com/songquanpeng/blog-theme-w3)|Theme for the following blog system: https://github.com/songquanpeng/blog|![2022-11-15 10:18:21](https://img.shields.io/badge/2022--11--15-10%3A18%3A21-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2022-11-20 20:33:32*
+*Last updated on: 2022-11-27 20:31:23*
