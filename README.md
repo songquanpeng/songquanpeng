@@ -17,25 +17,25 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[one-api](https://github.com/songquanpeng/one-api)|OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.|`8290⭐`|
-|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用|`1618⭐`|
-|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`670⭐`|
-|[pytorch-template](https://github.com/songquanpeng/pytorch-template)|To be the world's best PyTorch project template.|`243⭐`|
+|[one-api](https://github.com/songquanpeng/one-api)|OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.|`8707⭐`|
+|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用|`1626⭐`|
+|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`674⭐`|
+|[pytorch-template](https://github.com/songquanpeng/pytorch-template)|To be the world's best PyTorch project template.|`245⭐`|
 |[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，也可用于服务状态监控. Show your LeetCode & GitHub stats in GitHub Profile.|`226⭐`|
-|[wechat-server](https://github.com/songquanpeng/wechat-server)|微信公众号的后端，为其他系统提供微信登录验证功能|`181⭐`|
+|[wechat-server](https://github.com/songquanpeng/wechat-server)|微信公众号的后端，为其他系统提供微信登录验证功能|`187⭐`|
 |[pronunciation-corrector](https://github.com/songquanpeng/pronunciation-corrector)|拯救你的英语发音，告别因发音错误带来的尴尬！|`152⭐`|
-|[gin-template](https://github.com/songquanpeng/gin-template)|用于 Gin & React 项目的模板. Template for Gin & React projects.|`96⭐`|
-|[blog](https://github.com/songquanpeng/blog)|基于 Node.js 的个人博客系统. Node.js based blog system.|`52⭐`|
+|[gin-template](https://github.com/songquanpeng/gin-template)|用于 Gin & React 项目的模板. Template for Gin & React projects.|`100⭐`|
+|[blog](https://github.com/songquanpeng/blog)|基于 Node.js 的个人博客系统. Node.js based blog system.|`53⭐`|
 |[go-public](https://github.com/songquanpeng/go-public)|基于 Go 的端口转发工具，开箱即用. Yet another port forward tool, but easy to use.|`37⭐`|
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[one-api](https://github.com/songquanpeng/one-api)|OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.|![2024-01-07 19:21:23](https://img.shields.io/badge/2024--01--07-19%3A21%3A23-brightgreen?style=flat-square)|
-|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatically update your GitHub profile with GitHub Actions.|![2023-12-31 20:26:37](https://img.shields.io/badge/2023--12--31-20%3A26%3A37-brightgreen?style=flat-square)|
+|[one-api](https://github.com/songquanpeng/one-api)|OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.|![2024-01-14 19:22:52](https://img.shields.io/badge/2024--01--14-19%3A22%3A52-brightgreen?style=flat-square)|
+|[gin-template](https://github.com/songquanpeng/gin-template)|用于 Gin & React 项目的模板. Template for Gin & React projects.|![2024-01-12 18:35:06](https://img.shields.io/badge/2024--01--12-18%3A35%3A06-brightgreen?style=flat-square)|
+|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatically update your GitHub profile with GitHub Actions.|![2024-01-07 20:26:55](https://img.shields.io/badge/2024--01--07-20%3A26%3A55-brightgreen?style=flat-square)|
 |[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用|![2023-12-19 08:14:53](https://img.shields.io/badge/2023--12--19-08%3A14%3A53-brightgreen?style=flat-square)|
 |[wechat-server](https://github.com/songquanpeng/wechat-server)|微信公众号的后端，为其他系统提供微信登录验证功能|![2023-12-19 08:14:46](https://img.shields.io/badge/2023--12--19-08%3A14%3A46-brightgreen?style=flat-square)|
-|[gin-template](https://github.com/songquanpeng/gin-template)|用于 Gin & React 项目的模板. Template for Gin & React projects.|![2023-12-19 08:14:39](https://img.shields.io/badge/2023--12--19-08%3A14%3A39-brightgreen?style=flat-square)|
 |[one-proxy](https://github.com/songquanpeng/one-proxy)|轻松管理你的众多订阅，提供一个固定的订阅地址。|![2023-12-19 08:14:30](https://img.shields.io/badge/2023--12--19-08%3A14%3A30-brightgreen?style=flat-square)|
 |[openai-mocker](https://github.com/songquanpeng/openai-mocker)|一个模拟 OpenAI API 的 mock server，用以 One API 的压测|![2023-12-19 07:37:19](https://img.shields.io/badge/2023--12--19-07%3A37%3A19-brightgreen?style=flat-square)|
 |[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|![2023-10-12 06:30:34](https://img.shields.io/badge/2023--10--12-06%3A30%3A34-brightgreen?style=flat-square)|
@@ -44,4 +44,4 @@
 
 
 
-*Last updated on: 2024-01-07 20:26:53*
+*Last updated on: 2024-01-14 20:26:48*
