@@ -4,9 +4,6 @@
   <img src="./profile/top-langs.svg" alt="JustSong's Top Langs" width="37%" />
 </p>
 
-![skills](https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode)
-
-
 ## Find Me
 
 欢迎扫码关注，保持联系。

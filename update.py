@@ -62,8 +62,6 @@ abstract_tpl = """## Abstract
   <img src="./profile/top-langs.svg" alt="{github_name}'s Top Langs" width="37%" />
 </p>
 
-![skills](https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode)
-
 """
 
 social_tpl = """\n## Find Me
