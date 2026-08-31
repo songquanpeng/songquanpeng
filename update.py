@@ -66,7 +66,7 @@ abstract_tpl = """## Abstract
 
 social_tpl = """\n## Find Me
 
-欢迎扫码关注，保持联系。
+欢迎扫码关注，我会做些有意思的事情。
 
 <table width="100%">
   <tr>
@@ -76,8 +76,8 @@ social_tpl = """\n## Find Me
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <a href="./profile/wechat.jpg">
-        <img src="./profile/wechat.jpg" alt="JustSong 的微信公众号二维码，使用微信扫码关注" width="240" />
+      <a href="./profile/wechat.svg">
+        <img src="./profile/wechat.svg" alt="JustSong 的微信公众号二维码，使用微信扫码关注" width="240" />
       </a>
     </td>
     <td align="center" valign="middle">
