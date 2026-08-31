@@ -62,18 +62,37 @@ abstract_tpl = """## Abstract
   <img src="./profile/top-langs.svg" alt="{github_name}'s Top Langs" width="37%" />
 </p>
 
-<a href="https://github.com/songquanpeng/stats-cards">
-<p>
-  <img src="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=light" alt="JustSong's LeetCode Stats" width="49%" />
-  <img src="https://stats.justsong.cn/api/zhihu/?username=songwonderful&theme=light" alt="JustSong's Zhihu Stats" width="49%" /> 
-</p>
-</a>
-
 ![skills](https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode)
 
 """
 
-zhihu_tpl = "[![{github_name}'s Zhihu Stats](https://stats.justsong.cn/api/zhihu?username={zhihu_username})](https://github.com/songquanpeng/readme-stats)\n"
+social_tpl = """\n## Find Me
+
+欢迎扫码关注，保持联系。
+
+<table width="100%">
+  <tr>
+    <th width="50%" align="center">微信公众号</th>
+    <th width="50%" align="center">小红书 · JustSong</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="./profile/wechat.jpg">
+        <img src="./profile/wechat.jpg" alt="微信公众号二维码，使用微信扫码关注" width="240" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="./profile/xiaohongshu.jpg">
+        <img src="./profile/xiaohongshu.jpg" alt="JustSong 的小红书二维码，小红书号 6533026394" width="240" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">使用微信扫码关注</td>
+    <td align="center">小红书号：<code>6533026394</code></td>
+  </tr>
+</table>
+"""
 
 recent_repos_tpl = """\n## Recent Updates
 |Project|Description|Last Update|
@@ -91,13 +110,11 @@ footer_tpl = f"""
 """
 
 
-def render(github_username, github_data, zhihu_username='') -> str:
+def render(github_username, github_data) -> str:
     markdown = ""
     global abstract_tpl
-    if zhihu_username:
-        abstract_tpl += zhihu_tpl
-    markdown += abstract_tpl.format(github_username=github_username, github_name=github_data['name'],
-                                    zhihu_username=zhihu_username)
+    markdown += abstract_tpl.format(github_username=github_username, github_name=github_data['name'])
+    markdown += social_tpl
     global top_repos_tpl
     for repo in github_data['top_repos']:
         top_repos_tpl += "|[{name}]({link})|{description}|`{star}⭐`|\n".format(**repo)
@@ -140,9 +157,8 @@ def main():
     if not github_username:
         cwd = os.getcwd()
         github_username = os.path.split(cwd)[-1]
-    zhihu_username = os.getenv('ZHIHU_USERNAME')
     github_data = fetcher(github_username)
-    markdown = render(github_username, github_data, zhihu_username)
+    markdown = render(github_username, github_data)
     if writer(markdown):
         pass
         # pusher()
