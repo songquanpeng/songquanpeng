@@ -22,7 +22,7 @@
     </td>
     <td align="center" valign="middle">
       <a href="https://www.xiaohongshu.com/user/profile/61f122c30000000010007b28">
-        <img src="./profile/xiaohongshu.jpg" alt="JustSong 的小红书二维码，小红书号 6533026394" width="240" />
+        <img src="./profile/xiaohongshu.svg" alt="JustSong 的小红书二维码，小红书号 6533026394" width="240" />
       </a>
     </td>
     <td align="center" valign="middle">
