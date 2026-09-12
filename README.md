@@ -4,40 +4,15 @@
   <img src="./profile/top-langs.svg" alt="JustSong's Top Langs" width="37%" />
 </p>
 
+<a href="https://github.com/songquanpeng/stats-cards">
+<p>
+  <img src="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=light" alt="JustSong's LeetCode Stats" width="49%" />
+  <img src="https://stats.justsong.cn/api/zhihu/?username=songwonderful&theme=light" alt="JustSong's Zhihu Stats" width="49%" />
+</p>
+</a>
 
-## Find Me
+![skills](https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode)
 
-欢迎扫码关注，我会做些有意思的事情。
-
-<table width="100%">
-  <tr>
-    <th width="33%" align="center">微信公众号 · JustSong</th>
-    <th width="33%" align="center">小红书 · JustSong</th>
-    <th width="34%" align="center">B 站 · JustSongArrived</th>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="./profile/wechat.svg">
-        <img src="./profile/wechat.svg" alt="JustSong 的微信公众号二维码，使用微信扫码关注" width="240" />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://www.xiaohongshu.com/user/profile/61f122c30000000010007b28">
-        <img src="./profile/xiaohongshu.svg" alt="JustSong 的小红书二维码，小红书号 6533026394" width="240" />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://space.bilibili.com/246177138">
-        <img src="./profile/bilibili.svg" alt="JustSongArrived 的 B 站主页二维码，UID 246177138" width="240" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">使用微信扫码关注</td>
-    <td align="center">小红书号：<a href="https://www.xiaohongshu.com/user/profile/61f122c30000000010007b28"><code>6533026394</code></a></td>
-    <td align="center"><a href="https://space.bilibili.com/246177138">点击或扫码访问 B 站主页</a></td>
-  </tr>
-</table>
 
 ## Top Projects
 |Project|Description|Stars|
