@@ -17,31 +17,31 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[one-api](https://github.com/songquanpeng/one-api)|LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.|`37193⭐`|
-|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用|`3886⭐`|
-|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`1121⭐`|
-|[wechat-server](https://github.com/songquanpeng/wechat-server)|微信公众号的后端，为其他系统提供微信登录验证功能|`532⭐`|
+|[one-api](https://github.com/songquanpeng/one-api)|LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.|`37245⭐`|
+|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用|`3888⭐`|
+|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`1122⭐`|
+|[wechat-server](https://github.com/songquanpeng/wechat-server)|微信公众号的后端，为其他系统提供微信登录验证功能|`531⭐`|
 |[pytorch-template](https://github.com/songquanpeng/pytorch-template)|To be the world's best PyTorch project template.|`507⭐`|
 |[gin-template](https://github.com/songquanpeng/gin-template)|用于 Gin & React 项目的模板. Template for Gin & React projects.|`399⭐`|
 |[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，也可用于服务状态监控. Show your LeetCode & GitHub stats in GitHub Profile.|`338⭐`|
-|[pronunciation-corrector](https://github.com/songquanpeng/pronunciation-corrector)|拯救你的英语发音，告别因发音错误带来的尴尬！|`258⭐`|
+|[pronunciation-corrector](https://github.com/songquanpeng/pronunciation-corrector)|拯救你的英语发音，告别因发音错误带来的尴尬！|`259⭐`|
 |[blog](https://github.com/songquanpeng/blog)|个人博客系统|`72⭐`|
 |[pytorch-deployment](https://github.com/songquanpeng/pytorch-deployment)|A template for rapid deployment of PyTorch models.|`65⭐`|
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatically update your GitHub profile with GitHub Actions.|![2026-10-18 11:45:01](https://img.shields.io/badge/2026--10--18-11%3A45%3A01-brightgreen?style=flat-square)|
-|[blog](https://github.com/songquanpeng/blog)|个人博客系统|![2026-10-16 19:33:03](https://img.shields.io/badge/2026--10--16-19%3A33%3A03-brightgreen?style=flat-square)|
+|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatically update your GitHub profile with GitHub Actions.|![2026-10-25 11:53:03](https://img.shields.io/badge/2026--10--25-11%3A53%3A03-brightgreen?style=flat-square)|
+|[weread-cli](https://github.com/songquanpeng/weread-cli)|Offline-first WeRead CLI in Go: sync highlights and personal reviews, search Chinese notes, export data, and schedule syncs.|![2026-10-25 11:52:25](https://img.shields.io/badge/2026--10--25-11%3A52%3A25-brightgreen?style=flat-square)|
+|[blog](https://github.com/songquanpeng/blog)|个人博客系统|![2026-10-21 11:43:20](https://img.shields.io/badge/2026--10--21-11%3A43%3A20-brightgreen?style=flat-square)|
+|[flomo-cli](https://github.com/songquanpeng/flomo-cli)|Unofficial cli for flomo|![2026-10-21 06:32:16](https://img.shields.io/badge/2026--10--21-06%3A32%3A16-brightgreen?style=flat-square)|
 |[songquanpeng.github.io](https://github.com/songquanpeng/songquanpeng.github.io)|Archived blog website's source code.|![2026-09-13 19:30:14](https://img.shields.io/badge/2026--09--13-19%3A30%3A14-brightgreen?style=flat-square)|
-|[textboard](https://github.com/songquanpeng/textboard)|None|![2026-09-06 16:11:10](https://img.shields.io/badge/2026--09--06-16%3A11%3A10-brightgreen?style=flat-square)|
 |[one-proxy](https://github.com/songquanpeng/one-proxy)|轻松管理你的众多订阅，提供一个固定的订阅地址。|![2026-08-29 21:54:06](https://img.shields.io/badge/2026--08--29-21%3A54%3A06-brightgreen?style=flat-square)|
 |[go-text](https://github.com/songquanpeng/go-text)|基于 Go 的终端风格在线聊天工具，仅单可执行文件，开箱即用. Go based terminal-style chat room.|![2026-08-25 05:10:48](https://img.shields.io/badge/2026--08--25-05%3A10%3A48-brightgreen?style=flat-square)|
-|[flomo-cli](https://github.com/songquanpeng/flomo-cli)|Unofficial cli for flomo|![2026-08-09 18:22:21](https://img.shields.io/badge/2026--08--09-18%3A22%3A21-brightgreen?style=flat-square)|
 |[one-api](https://github.com/songquanpeng/one-api)|LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.|![2026-01-09 11:26:43](https://img.shields.io/badge/2026--01--09-11%3A26%3A43-brightgreen?style=flat-square)|
 |[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用|![2025-11-22 12:22:53](https://img.shields.io/badge/2025--11--22-12%3A22%3A53-brightgreen?style=flat-square)|
 |[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|![2025-11-20 08:31:17](https://img.shields.io/badge/2025--11--20-08%3A31%3A17-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2026-10-18 23:33:18*
+*Last updated on: 2026-10-25 23:45:17*
