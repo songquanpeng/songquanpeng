@@ -17,10 +17,10 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[one-api](https://github.com/songquanpeng/one-api)|LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.|`37306⭐`|
+|[one-api](https://github.com/songquanpeng/one-api)|LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.|`37360⭐`|
 |[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用|`3893⭐`|
-|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`1122⭐`|
-|[wechat-server](https://github.com/songquanpeng/wechat-server)|微信公众号的后端，为其他系统提供微信登录验证功能|`530⭐`|
+|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`1119⭐`|
+|[wechat-server](https://github.com/songquanpeng/wechat-server)|微信公众号的后端，为其他系统提供微信登录验证功能|`529⭐`|
 |[pytorch-template](https://github.com/songquanpeng/pytorch-template)|To be the world's best PyTorch project template.|`506⭐`|
 |[gin-template](https://github.com/songquanpeng/gin-template)|用于 Gin & React 项目的模板. Template for Gin & React projects.|`399⭐`|
 |[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，也可用于服务状态监控. Show your LeetCode & GitHub stats in GitHub Profile.|`338⭐`|
@@ -31,7 +31,8 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatically update your GitHub profile with GitHub Actions.|![2026-11-01 13:08:28](https://img.shields.io/badge/2026--11--01-13%3A08%3A28-brightgreen?style=flat-square)|
+|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatically update your GitHub profile with GitHub Actions.|![2026-11-08 13:13:53](https://img.shields.io/badge/2026--11--08-13%3A13%3A53-brightgreen?style=flat-square)|
+|[selphy-cli](https://github.com/songquanpeng/selphy-cli)|Go CLI and macOS desktop client for Canon SELPHY: local photo previews, calibration, and printing|![2026-11-02 02:15:14](https://img.shields.io/badge/2026--11--02-02%3A15%3A14-brightgreen?style=flat-square)|
 |[weread-cli](https://github.com/songquanpeng/weread-cli)|Offline-first WeRead CLI in Go: sync highlights and personal reviews, search Chinese notes, export data, and schedule syncs.|![2026-10-25 11:52:25](https://img.shields.io/badge/2026--10--25-11%3A52%3A25-brightgreen?style=flat-square)|
 |[blog](https://github.com/songquanpeng/blog)|个人博客系统|![2026-10-21 11:43:20](https://img.shields.io/badge/2026--10--21-11%3A43%3A20-brightgreen?style=flat-square)|
 |[flomo-cli](https://github.com/songquanpeng/flomo-cli)|Unofficial cli for flomo|![2026-10-21 06:32:16](https://img.shields.io/badge/2026--10--21-06%3A32%3A16-brightgreen?style=flat-square)|
@@ -40,8 +41,7 @@
 |[go-text](https://github.com/songquanpeng/go-text)|基于 Go 的终端风格在线聊天工具，仅单可执行文件，开箱即用. Go based terminal-style chat room.|![2026-08-25 05:10:48](https://img.shields.io/badge/2026--08--25-05%3A10%3A48-brightgreen?style=flat-square)|
 |[one-api](https://github.com/songquanpeng/one-api)|LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.|![2026-01-09 11:26:43](https://img.shields.io/badge/2026--01--09-11%3A26%3A43-brightgreen?style=flat-square)|
 |[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用|![2025-11-22 12:22:53](https://img.shields.io/badge/2025--11--22-12%3A22%3A53-brightgreen?style=flat-square)|
-|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|![2025-11-20 08:31:17](https://img.shields.io/badge/2025--11--20-08%3A31%3A17-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2026-11-02 01:44:39*
+*Last updated on: 2026-11-09 01:45:04*
